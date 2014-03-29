@@ -1,4 +1,4 @@
-This software and source code is dual-licensed under the MIT License and the PSF License. You may choose the license of your choice
+This software and source code is dual-licensed under the MIT License and the PSF License. You may use and redistribute the software under the license of your choice.
 
 Option 1:
 =========
